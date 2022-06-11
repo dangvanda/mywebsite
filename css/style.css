@@ -38,7 +38,7 @@ body ul {
 }
 
 .sing {
-	min-height: 2400px !important;
+	min-height: 1100px !important;
 	background-size: cover !important;
 }
 
@@ -131,7 +131,7 @@ body ul {
 /*-- content --*/
 .content {
 	background: url(../images/banner.png) no-repeat -14em 0px;
-	min-height: 1100px;
+	min-height: 800px;
 	position: relative;
 }
 
