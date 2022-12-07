@@ -18026,6 +18026,7 @@ div#small-dialog iframe {
   -moz-border-radius: 4px;
   -ms-border-radius: 4px;
   padding: 0;
+  display: none;
 }
 
 #movetop:hover {
