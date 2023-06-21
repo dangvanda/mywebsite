@@ -19705,7 +19705,7 @@ p.copy-footer-29 {
 /* testimonials */
 .testi-wrap {
   position: relative;
-  height: 725px;
+  height: 625px;
   margin-top: -80px;
 }
 
@@ -19880,7 +19880,7 @@ p.copy-footer-29 {
   }
 
   .testi-wrap {
-    height: 650px;
+    height: 550px;
   }
 
   #testimonial-area {
@@ -19940,7 +19940,7 @@ p.copy-footer-29 {
   }
 
   .testi-wrap {
-    height: 660px;
+    height: 560px;
   }
 
   .client-single.position-5 {
@@ -20005,7 +20005,7 @@ p.copy-footer-29 {
   }
 
   .testi-wrap {
-    height: 600px;
+    height: 500px;
   }
 }
 
@@ -20070,13 +20070,13 @@ p.copy-footer-29 {
   }
 
   .testi-wrap {
-    height: 650px;
+    height: 550px;
   }
 }
 
 @media (max-width: 352px) {
   .testi-wrap {
-    height: 700px;
+    height: 600px;
   }
 }
 

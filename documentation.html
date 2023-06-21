@@ -5,7 +5,7 @@
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title>Đa I Tờ's Website</title>
+    <title>Đa I Tờ</title>
     <!-- google-fonts -->
     <link href="//fonts.googleapis.com/css2?family=Nunito:wght@200;300;400;600;700;800;900&display=swap"
         rel="stylesheet">
@@ -13,7 +13,7 @@
         rel="stylesheet">
     <!-- //google-fonts -->
     <!-- Template CSS Style link -->
-    <link rel='shortcut icon' href='assets/images/personal/personal2.jpg' />
+    <link rel='shortcut icon' href='assets/images/personal/personal11_vanmieu.jpg' />
     <link rel="stylesheet" href="assets/css/style-starter.css">
 </head>
 
@@ -222,7 +222,7 @@
                     </div>
                 </div>
                 <div class="content-right col-lg-6 mt-lg-0 mt-5">
-                    <img src="assets/images/documentation/background.png" alt="" class="img-fluid">
+                    <img src="assets/images/documentation/bg.png" alt="" class="img-fluid">
                 </div>
             </div>
         </div>
@@ -290,40 +290,7 @@
     <!-- libhtbox -->
     <script src="assets/js/lightbox-plus-jquery.min.js"></script>
     <!-- libhtbox -->
-
-    <!-- testimonial script -->
-    <script>
-        $(document).ready(function () {
-
-            $('.client-single').on('click', function (event) {
-                event.preventDefault();
-
-                var active = $(this).hasClass('active');
-
-                var parent = $(this).parents('.testi-wrap');
-
-                if (!active) {
-                    var activeBlock = parent.find('.client-single.active');
-
-                    var currentPos = $(this).attr('data-position');
-
-                    var newPos = activeBlock.attr('data-position');
-
-                    activeBlock.removeClass('active').removeClass(newPos).addClass('inactive').addClass(
-                        currentPos);
-                    activeBlock.attr('data-position', currentPos);
-
-                    $(this).addClass('active').removeClass('inactive').removeClass(currentPos).addClass(
-                        newPos);
-                    $(this).attr('data-position', newPos);
-
-                }
-            });
-
-        }(jQuery));
-    </script>
-    <!-- //testimonial script -->
-
+    
     <!-- MENU-JS -->
     <script>
         $(window).on("scroll", function () {
