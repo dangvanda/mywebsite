@@ -20421,7 +20421,7 @@ ul.list-about-2 li {
 
 /* content with bg */
 .w3l-content-bg {
-  background: url(../images/bg.jpg) no-repeat center fixed;
+  background: url(../images/bg.png) no-repeat center fixed;
   background-size: cover;
   -webkit-background-size: cover;
   -moz-background-size: cover;
