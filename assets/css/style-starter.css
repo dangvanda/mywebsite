@@ -20268,10 +20268,7 @@ ul.list-about-2 li {
     margin-top: 0px;
     vertical-align: middle;
   }
-  .avatar {
-    width: 60%;
-    height: 60%;
-  }
+
 }
 
 @media (max-width: 480px) {
@@ -20295,9 +20292,10 @@ ul.list-about-2 li {
   .w3l-content-4 .content4-right-info {
     padding-left: 30px;
   }
+
   .avatar {
-    width: 50%;
-    height: 50%;
+    width: 60%;
+    height: 60%;
   }
 }
 
