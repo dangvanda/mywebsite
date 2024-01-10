@@ -20246,8 +20246,8 @@ ul.list-about-2 li {
 
 .avatar {
   vertical-align: middle;
-  width: 70%;
-  height: 70%;
+  width: 80%;
+  height: 80%;
   border-radius: 50%;
 }
 
@@ -20267,6 +20267,11 @@ ul.list-about-2 li {
   .w3l-content-4 .content4-icon span.fa {
     margin-top: 0px;
     vertical-align: middle;
+  }
+
+  .avatar {
+    width: 70%;
+    height: 70%;
   }
 
 }
@@ -20323,8 +20328,8 @@ ul.list-about-2 li {
   }
 
   .avatar {
-    width: 50%;
-    height: 50%;
+    width: 55%;
+    height: 55%;
   }
 }
 
