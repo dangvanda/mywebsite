@@ -20243,6 +20243,13 @@ ul.list-about-2 li {
   background: rgb(57 195 164 / 45%);
 }
 
+.avatar {
+  vertical-align: middle;
+  width: 70%;
+  height: 70%;
+  border-radius: 50%;
+}
+
 @media (max-width: 767px) {
   .w3l-content-4 .content4-icon {
     font-size: 30px;
