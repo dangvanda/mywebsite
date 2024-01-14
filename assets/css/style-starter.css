@@ -19613,7 +19613,7 @@ h5.email-cont-text a:hover {
 }
 
 .w3l-footer-16-main .subscribe button {
-  background: var(--secondary-color);
+  background: var(--primary-color);
   border: none;
   outline: none;
   font-size: 16px;
@@ -19625,7 +19625,7 @@ h5.email-cont-text a:hover {
 }
 
 .w3l-footer-16-main .subscribe button:hover {
-  background: var(--primary-color);
+  background: var(--secondary-color);
 }
 
 /* copyright */
